@@ -1,6 +1,7 @@
 # Digging Deeper: Building Volleyball Metrics with Full-Court Coverage and Context
 
 By Kevin Baer, UCLA Second Year Undergraduate Student
+
 Faculty Mentor: Dave Zes, UCLA
 
 Correspondence: [kevinbaer@ucla.edu](kevinbaer@ucla.edu)
