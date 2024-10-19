@@ -9,3 +9,5 @@ Correspondence: [kevinbaer@ucla.edu](kevinbaer@ucla.edu)
 Feel free to reach out to me with any questions or connect with me on [LinkedIn](http://linkedin.com/in/KevinMBaer)!
 
 In this Github, you will find my poster, raw images, and citations.
+
+Clipart by Gan Khoon Lay, Player images courtesy of USA Volleyball
